@@ -1,8 +1,0 @@
-{
-    "name": "SpecialMining",
-    "description": "Powder & Scatha Mining",
-    "isHidden": false,
-    "isTogglable": true,
-    "defaultEnabled": true,
-    "sortA": 1
-}
